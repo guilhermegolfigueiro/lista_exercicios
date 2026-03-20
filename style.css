@@ -2,16 +2,19 @@ body{
     background-color: black;
     margin: 0;
 }
+
 h1{
     margin: 0px;
     padding: 20px;
     text-align: center;
     color: #000000;
 }
+
 .botoes{
     width: 420px;
     margin-left: 8%;
 }
+
 button{
     background-color: #6b1313;
     border-style: none;
