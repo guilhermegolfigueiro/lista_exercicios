@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+h1{
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    color: #000000;
+}
+.botoes{
+    width: 420px;
+    margin-left: 8%;
+}
+button{
+    background-color: #6b1313;
+    border-style: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.container{
+    background-color: #000000;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    padding: 30px;
+    width: 115px;
+    margin: 10px;
+    height: 10px;
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    border-radius: 2px;
+}
+
+#contagem{
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 0px;
+}
+
+header{
+    background-color: #6b1313;
+    margin-bottom: 30px;
+}
