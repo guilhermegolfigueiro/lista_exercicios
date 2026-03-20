@@ -17,14 +17,14 @@ button{
     border-style: none;
     width: 100px;
     height: 40px;
-    border-radius: 100px;
+    border-radius: 2px;
     cursor: pointer;
 }
 
 .container{
     background-color: #000000;
     border-style: solid;
-    border-color: white;
+    border-color: #6b1313;
     border-width: 1px;
     padding: 30px;
     width: 115px;
